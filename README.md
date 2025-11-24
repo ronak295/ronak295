@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronak Anil Tatar</h1>
+<h1 align="center">Hi 👋, I'm Ronak Tatar</h1>
 <h3 align="center">Frontend Developer | MERN Developer | Cloud & DevOps Learner</h3>
 
 ---
