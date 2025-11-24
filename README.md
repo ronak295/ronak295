@@ -6,7 +6,6 @@
 ## 🚀 About Me  
 - 👨‍💻 I'm a passionate **Frontend & MERN Stack Developer**  
 - 🌱 Currently learning **Cloud Computing & DevOps**  
-- 💼 Working on **Vyapari CA Billing WebApp** & **Amazon Clone**  
 - 🌐 Love creating fast, responsive and user-friendly web apps  
 - 🤝 Open to collaboration on **web development projects**  
 
